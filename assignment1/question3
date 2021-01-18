@@ -1,0 +1,36 @@
+Script started on Mon Sep 24 19:46:16 2018
+[?1034hbash-4.2$ ls -l
+total 57
+-rw-r--r-- 1 yxia226 yxia226   903 Sep 23 23:22 SubmForm.txt
+-rw-r--r-- 1 yxia226 yxia226 44344 Sep 24 17:10 answer.pdf
+drwxrwxr-x 2 yxia226 yxia226     3 Sep 24 19:44 dir0
+drwxrwxr-x 2 yxia226 yxia226     3 Sep 24 19:45 dir1
+-rw-rw-r-- 1 yxia226 yxia226     0 Sep 24 19:46 question3
+bash-4.2$ ls -l d*
+dir0:
+total 10
+-rw-rw-r-- 1 yxia226 yxia226 4 Sep 24 19:44 vi
+
+dir1:
+total 1
+-rw-rw-r-- 1 yxia226 yxia226 0 Sep 24 19:45 df1.txt
+bash-4.2$  [Kls *
+SubmForm.txt  answer.pdf  question3
+
+dir0:
+vi
+
+dir1:
+df1.txt
+bash-4.2$ ls **
+SubmForm.txt  answer.pdf  question3
+
+dir0:
+vi
+
+dir1:
+df1.txt
+bash-4.2$ exit
+exit
+
+Script done on Mon Sep 24 19:46:48 2018

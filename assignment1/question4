@@ -1,0 +1,27 @@
+Script started on Tue Sep 25 08:45:11 2018
+[?1034hbash-4.2$ find . -name "*"
+.
+./question4
+./question3
+./answer.pdf
+./SubmForm.txt
+./dir0
+./dir0/df0.txt
+./dir1
+./dir1/df1.txt
+bash-4.2$ find . -type f -name "d*"
+./dir0/df0.txt
+./dir1/df1.txt
+bash-4.2$ find . [K[K-time [K[K[K[K[Kmtime -1
+.
+./question4
+./question3
+./answer.pdf
+./dir0
+./dir0/df0.txt
+./dir1
+./dir1/df1.txt
+bash-4.2$ exit
+exit
+
+Script done on Tue Sep 25 08:46:27 2018
