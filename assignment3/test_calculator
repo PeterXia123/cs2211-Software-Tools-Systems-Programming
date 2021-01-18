@@ -1,0 +1,53 @@
+Script started on Tue Oct 30 23:12:49 2018
+[?1034hbash-4.2$ ./caculator
+bash: ./caculator: No such file or directory
+bash-4.2$ cal[K[K[K./calculator
+please input the number3
+ _ 
+ _|
+ _|
+do you want to continue, Y for yes, N for quit.Y
+please input the number1
+   
+  |
+  |
+do you want to continue, Y for yes, N for quit.Y
+please input the number2
+ _ 
+ _|
+|_ 
+do you want to continue, Y for yes, N for quit.Y
+please input the number4
+   
+|_|
+  |
+do you want to continue, Y for yes, N for quit.Y
+please input the number5
+ _ 
+|_ 
+ _|
+do you want to continue, Y for yes, N for quit.Y
+please input the number6
+ _ 
+|_ 
+|_|
+do you want to continue, Y for yes, N for quit.Y
+please input the number7
+ _ 
+  |
+  |
+do you want to continue, Y for yes, N for quit.Y
+please input the number8
+ _ 
+|_|
+|_|
+do you want to continue, Y for yes, N for quit.Y
+please input the number9
+ _ 
+|_|
+ _|
+do you want to continue, Y for yes, N for quit.N
+bash-4.2$ EXI[K[K[Kexit
+exit
+
+Script done on Tue Oct 30 23:13:42 2018

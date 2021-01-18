@@ -1,0 +1,25 @@
+Script started on Tue Oct 30 23:10:12 2018
+[?1034hbash-4.2$ ./evaluate
+please input the simple arithmetic expression
+2+3/5
+the result is 2.60
+do you want to continue, Y for yes, N for quit.Y
+please input the simple arithmetic expression
+2*3+3/41
+the result is 6.07
+do you want to continue, Y for yes, N for quit.Y
+please input the simple arithmetic expression
+23 + 3
+the result is 26.00
+do you want to continue, Y for yes, N for quit.Y
+please input the simple arithmetic expression
+234 %1
+bash-4.2$ ./EVA[K[K[Kevaluate
+please input the simple arithmetic expression
+23 /23 + 1
+the result is 2.00
+do you want to continue, Y for yes, N for quit.n N
+bash-4.2$ EXIT[K[K[K[Kexit
+exit
+
+Script done on Tue Oct 30 23:12:21 2018
