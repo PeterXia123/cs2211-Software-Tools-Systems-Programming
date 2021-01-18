@@ -1,0 +1,17 @@
+Script started on 2018-11-14 18:21:13-05:00
+bash-4.4$ ./pi_calculator [K
+please input the tolerance level.
+0.0001
+the estimation of pi is 3.141643.
+bash-4.4$ ./c[Kpi_calculator 
+please input the tolerance level.
+0.0000001
+the estimation of pi is 3.141593.
+bash-4.4$ ./[K[K./[[Kpi_calculator 
+please input the tolerance level.
+0.000000001
+the estimation of pi is 3.141593.
+bash-4.4$ exit
+exit
+
+Script done on 2018-11-14 18:23:38-05:00

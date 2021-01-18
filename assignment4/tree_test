@@ -1,0 +1,34 @@
+Script started on 2018-11-14 18:24:08-05:00
+bash-4.4$ ./mytest
+the test 1 is as followed insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+duplicate key.
+(         !             99)    9
+(      Once              1)    11
+(      Once              5)    50
+(      Time              4)    44
+(      Upon             22)    2
+( Vancouver              8)    88
+(         a              3)    33
+(    filmed              6)    66
+(        in              7)    77
+(        is              5)    55
+test 2: then we try to test the out of bound situation insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+ insert suscessfully.
+the node is out of array, we need to expand some space.
+test 3: then we try to test the duplicate situation
+duplicate key.
+bash-4.4$ exit
+exit
+
+Script done on 2018-11-14 18:24:20-05:00
