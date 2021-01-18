@@ -1,0 +1,28 @@
+Script started on Mon Dec  3 13:03:06 2018
+[?1034hbash-4.2$ \make
+cc -c main.c
+cc -c matrix.c
+cc -c bstree.c
+cc -c datatype.c
+cc -o mymatrix main.o matrix.o bstree.o datatype.o
+bash-4.2$ ./mymatrix
+please input a seris pair of string.
+bba aa
+aab aab
+bba aa
+aab abb
+bba aaa
+String 1       String 2       Occurance      
+aab            aab            1              
+aab            abb            1              
+bba            aa             2              
+bba            aaa            1              
+bash-4.2$ make clean
+rm -f mymatrix *.o core
+bash-4.2$ ls
+Makefile  bstree.h    datatype.h  matrix.c  matrix.h.gch  thematrix
+bstree.c  datatype.c  main.c	  matrix.h  matrix_test
+bash-4.2$ eixt[K[K[Kxit
+exit
+
+Script done on Mon Dec  3 13:04:13 2018
