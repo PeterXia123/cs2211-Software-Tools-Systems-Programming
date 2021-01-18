@@ -1,0 +1,100 @@
+Script started on Tue Oct 16 14:22:48 2018
+[?1034hbash-4.2$ ./converter
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+1
+plaese choose the two different choose K or M.
+k K
+plaese input the kilometer
+12
+meters equivalent: 12000.000000
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+1
+plaese choose the two different choose K or M.
+M
+plaese input the meters
+12000
+kilo equivalent: 12.000000
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+2
+plaese choose the two different choose M or F.
+M
+plaese input the meters
+12312 
+feet equivalent: 4038.713867
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+2
+plaese choose the two different choose M or F.
+F
+plaese input the feet
+1231
+meters equivalent: 375.208801
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+3
+plaese choose the two different choose C or I.
+C
+plaese input the centimetre
+1231
+inch equivalent: 484.645905
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+3
+plaese choose the two different choose C or I.
+I
+plaese input the inch
+1231
+centimetre equivalent: 3126.738525
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+4
+plaese choose the two different choose C or F.
+C
+plaese input the celsius
+40
+fahrenheit equivalent: 104.000000
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+4
+plaese choose the two different choose C or F.
+F
+plaese input the fahrenheit
+120
+celsius equivalent: 48.888889
+please input the character of unit,1 for the conversion between Kilometer and Mile.
+please input the character of unit,2 for the conversion between Meter and feet.
+please input the character of unit,3 for the conversion between Centimetre and Inch.
+please input the character of unit,4 for the conversion between Celsius and Fahrenhiet.
+please input the character of unit,5 quit the program.
+5
+bash-4.2$ LS[K[Kexit
+exit
+
+Script done on Tue Oct 16 14:24:23 2018

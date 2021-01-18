@@ -1,0 +1,21 @@
+Script started on Mon Oct 15 10:59:27 2018
+[?1034hbash-4.2$ /exp_calculator
+bash: /exp_calculator: No such file or directory
+bash-4.2$ ./exp_calculator
+please input a positive float number for base
+2
+please input a integer number
+3
+the result is 8.000000.
+ bash-4.2$ ./exp_calculator
+please input a positive float number for base
+-2
+the base should be larger than 0.
+3.4
+please input a integer number
+5
+the result is 454.354279.
+ bash-4.2$ exit
+exit
+
+Script done on Mon Oct 15 11:00:03 2018
